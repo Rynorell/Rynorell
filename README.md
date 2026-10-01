@@ -78,7 +78,7 @@ I believe programming is a continuous learning process, so I'm always working on
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/Rynorell)
 
 </div>
 
@@ -90,6 +90,6 @@ I believe programming is a continuous learning process, so I'm always working on
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Rynorell&label=Profile%20Views&style=flat-square" />
 
 </div>
